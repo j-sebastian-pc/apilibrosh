@@ -1,0 +1,62 @@
+{
+    "libros": [
+      {
+        "id": 1,
+        "libro": "Harry Potter y la piedra filosofal",
+        "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/b2/b8/b2b8f402ecba8e723dd61dd6d824b1d3.jpg",
+        "precio": 52.96, 
+        "cantidadDisponible" : 5
+        
+      },
+      {
+        "id": 2,
+        "libro": "Harry Potter y la cámara secreta",
+        "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/1d/1e/1d1e531640c86ae960135c34fb1556ff.jpg",
+        "precio": 60.89,
+        "cantidadDisponible" : 9
+      },
+      {
+        "id": 3,
+        "libro": "Harry Potter y el prisionero de Azkaban",
+        "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/bf/8f/bf8f67a315b7f67c06a439efe303cdcb.jpg",
+        "precio": 100.00 ,
+        "cantidadDisponible" : 8
+      },
+      {
+        "id": 4,
+        "libro": "Harry Potter y el cáliz de fuego",
+        "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/7e/59/7e5952482316c10d0dfd2790e79cf39d.jpg",
+        "precio": 101.99 ,
+        "cantidadDisponible" : 4
+      },
+      {
+        "id": 5,
+        "libro": "Harry Potter y la orden del Fénix",
+        "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/3e/02/3e02fe3dfc57f3aaa73154fc7f0d058a.jpg",
+        "precio": 25.69, 
+        "cantidadDisponible" : 11
+      },
+      {
+        "id": 6,
+        "libro": "Harry Potter y el misterio del príncipe",
+        "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/23/c9/23c950f96621718c982224cc15d421fc.jpg",
+        "precio": 40.00, 
+        "cantidadDisponible" : 3
+      },
+      {
+        "id": 7,
+        "libro": "Harry Potter y las reliquias de la muerte",
+        "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/48/ce/48cea8cee71c3e8bc19e8f587afc2469.jpg",
+        "precio": 53.99, 
+        "cantidadDisponible" : 10
+      },
+      {
+        "id": 8,
+        "libro": "Harry Potter y el legado maldito",
+        "imagen": "https://s2.ppllstatics.com/laverdad/www/pre2017/multimedia/noticias/201609/28/media/cortadas/754-4_harry_potter_y_el_legado_maldito_website-kI9-U203181431965iEH-490x578@La%20Verdad.jpg",
+        "precio": 150.00 ,
+        "cantidadDisponible" : 15
+      }
+    ]
+  }
+  
